@@ -8,5 +8,6 @@ Now including:
 - Road Sign Waypoint
 - Touhou Townames
 - Transmitter
+- Japan Custom Docks
 
 
