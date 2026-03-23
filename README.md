@@ -9,5 +9,6 @@ Now including:
 - Touhou Townames
 - Transmitter
 - Japan Custom Docks
+- Japanese Town Names Plus
 
 
